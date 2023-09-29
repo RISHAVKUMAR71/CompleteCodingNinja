@@ -1,2 +1,0 @@
-# CompleteCodingNinja
-complete projets
